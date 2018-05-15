@@ -1,0 +1,48 @@
+[{
+	"name" : "Grimbergen Blonde",
+	"id" : "grimbergenBlonde",
+	"alcohol" : "6.7",
+	"descript" : "Bière blonde Grimbergen",
+	"img" : "./img/grim_blonde.jpg"
+},
+
+{
+	"name" : "Grimbergen Banche",
+	"id" : "grimbergenBlanche",
+	"alcohol" : "6",
+	"descript" : "Bière blanche Grimbergen",
+	"img" : "./img/grim_blanche.png"
+},
+
+{
+	"name" : "Grimbergen Rouge",
+	"id" : "grimbergenRouge",
+	"alcohol" : "6",
+	"descript" : "Bière rouge Grimbergen",
+	"img" : "./img/grim_rouge.jpg"
+},
+
+{
+	"name" : "Duchesse Anne",
+	"id" : "duchesseAnne",
+	"alcohol" : "7.5",
+	"descript" : "Bière triple Duchesse Anne",
+	"img" : "./img/duchesse_anne.jpg"
+},
+
+{
+	"name" : "Saint Erwann",
+	"id" : "saintErwann",
+	"alcohol" : "7",
+	"descript" : "Bière blonde Saint Erwann",
+	"img" : "./img/saint_erwann.jpg"
+},
+
+{
+	"name" : "Triple Karmeliet",
+	"id" : "tripleKarmeliet",
+	"alcohol" : "8",
+	"descript" : "Bière triple Triple Karmeliet",
+	"img" : "./img/triple_karmeliet.jpg"
+}]
+
